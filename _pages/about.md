@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Hiwot Belay"
+title: "Welcome 👋🏾"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
+  # - /about.html
 ---
-
-## Welcome👋
 
 Hi there! I’m Hiwot Belay, a Ph.D. student at Harvard University, advised by Prof. Finale Doshi-Velez. My research focuses on Interpretable Machine Learning, with an emphasis on enhancing model transparency and trustworthiness.
 
