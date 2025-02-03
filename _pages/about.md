@@ -7,7 +7,7 @@ redirect_from:
   # - /about.html
 ---
 
-Hi there! I’m Hiwot Belay, a Ph.D. student at Harvard University, advised by Prof. Finale Doshi-Velez. My research focuses on Interpretable Machine Learning, with an emphasis on enhancing model transparency and trustworthiness.
+Hi there! I’m Hiwot Belay, a Ph.D. student at Harvard University, advised by Prof. Finale Doshi-Velez. My research focuses on Interpretable Machine Learning, with an emphasis on enhancing transparency and trustworthiness.
 
 Before starting my Ph.D., I completed my undergraduate studies in Computer Engineering at Benedict College and spent time at IBM Research as a Research Software Engineer.
 
