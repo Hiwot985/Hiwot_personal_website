@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I’m Hiwot Belay, a Ph.D. student at Harvard University, advised by Prof. Finale Doshi-Velez. My research focuses on Interpretable Machine Learning.
 
-Before starting my Ph.D., I completed my undergraduate studies in Computer Engineering at Benedict College and spent time at IBM Research as a Research Software Engineer.
+Before starting my Ph.D., I completed my undergraduate studies in Computer Engineering at Benedict College.
 
 ### **Research Interests**
 
