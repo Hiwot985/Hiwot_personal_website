@@ -17,7 +17,8 @@ Before starting my Ph.D., I completed my undergraduate studies in Computer Engin
 
 ### 📄 **Publications**
 
-- **[Directly Optimizing Explanations](https://icml.cc/virtual/2024/38218)**
+-[**Directly Optimizing Explanations**](https://icml.cc/virtual/2024/38218)  
+  *ICML Workshop on Humans, Algorithmic Decision-Making and Society: Modeling Interactions and Impact, 2024*
 - **[Variational Exploration Module VEM: A Cloud-Native Optimization and Validation Tool for Geospatial Modeling and AI Workflows](https://arxiv.org/abs/2311.16196)**
 
 ### 📬 **Get in Touch**
